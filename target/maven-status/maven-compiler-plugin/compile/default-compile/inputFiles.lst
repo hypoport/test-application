@@ -1,0 +1,16 @@
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/configuration/HomeController.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/model/HanseaticServiceRequestScope.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/NotFoundException.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/model/ModelAndView.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ApiException.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ErmittleangebotApi.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/model/View.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/model/HanseaticServiceErmittlungsAnfrage.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ErrorApi.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ErmittleangebotApiController.java
+/Users/folker.gramse/playground/spring-server/src/main/java/io/swagger/api/ErrorApiController.java
